@@ -1,4 +1,4 @@
-# N-gram-
+# N-Gram Language Modeling
 using n-grams for sentiment analysis
 1. Project Objective & Relevance
 The goal of the project is clearly defined: to perform sentiment analysis on airline-related tweets. This is a well-established and practical NLP problem, making it highly relevant for learning real-world applications of natural language processing. It involves extracting insights from unstructured textual data, which is a critical skill in data science.
